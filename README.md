@@ -51,7 +51,8 @@ The **BERT Model Text Classification** project applies **BERT** (Bidirectional E
 - Further improvements can be made by experimenting with different fine-tuning strategies and expanding the dataset.
 
 ### Visualizations:
-- [image (1)](https://github.com/user-attachments/assets/ed536279-3a20-402d-9fb3-965f75f935ed)
+(https://github.com/user-attachments/assets/c8100169-1ad2-40d1-8008-ce362aa9195e)
+
 
 
 ### Potential Next Steps:
