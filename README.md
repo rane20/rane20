@@ -1,4 +1,4 @@
-# Rane Dy's GitHub Profile
+# Rane Dy
 
 ## About Me
 
@@ -17,50 +17,17 @@
 
 ### Data Science / Machine Learning / AI Projects:
 
-- **bert-model-text-classification**  
+- **TheRootRemedy**  
   As the **project lead**, this repository focuses on training a **BERT-based model** for text classification tasks. We applied state-of-the-art natural language processing techniques to classify various datasets effectively, as well predicting sentiment and intent.  
   - [Link to repository](https://github.com/rane20/TheRootRemedy.git)
 
-- **recipe-application-dart-flutter**  
+- **Recipe-Application**  
   This project involves developing a **recipe application** using **Flutter** and **Dart**. The app helps users explore various recipes with features for searching and saving their favorite recipes.  
   - [Link to repository](https://github.com/Alexawnder/Recipe-Application.git)
 
-- **women-in-tech-website**  
+- **Women-in-Tech-Web-Dev/Web-Dev**  
   As the **project lead**, I contributed to the development of the **Women in Tech** website, which aims to empower and support women in tech through resources, events, and a supportive community.  
   - [Link to repository](https://github.com/Women-in-Tech-Web-Dev/Web-Dev.git)
-
----
-
-## Fall AI Studio Project Overview
-
-### Project Overview
-The **BERT Model Text Classification** project applies **BERT** (Bidirectional Encoder Representations from Transformers) for text classification, enabling high accuracy for tasks like sentiment analysis and document categorization. As the **project lead**, I guided the team through model training, optimization, and evaluation to achieve impactful results.
-
-### Objectives and Goals:
-- **Objective 1**: Create dataset from scratch and perform sentiment analysis and intent detection.
-- **Objective 2**: Train and fine-tune the BERT model for text classification. 
-- **Objective 3**: Create a deployable model for use in production environments.
-
-### Methodology:
-- **Data Preprocessing**: Clean and tokenize text data using BERT's tokenization methods.
-- **Model Development**: Fine-tune BERT for the classification task.
-- **Evaluation**: Use performance metrics such as accuracy, precision, and recall.
-
-### Results and Key Findings:
-- The model demonstrated accurate sentiment and intent prediction.
-- Further improvements can be made by experimenting with different fine-tuning strategies and expanding the dataset.
-
-### Visualizations:
-(https://github.com/user-attachments/assets/c8100169-1ad2-40d1-8008-ce362aa9195e)
-
-
-
-### Potential Next Steps:
-- Integrate the model into an API for easy access and use in other applications.
-- Expand the dataset for improved generalization and performance.
-
-### Individual Contributions:
-- Led the project, including managing tasks, overseeing data preprocessing, and optimizing the BERT model.
 
 ---
 
